@@ -10,6 +10,7 @@ I would like to have a PYTHON script that would:
 2- Move 5000 items of to each folder (1 item = 2 or 3 files of the same file name, with different extension (.eps, .jpg and sometimes .zip).
 
 --Solution--
+
 Place script to folder with a very large quantities of files and run it.
 All files with the same filenames and different extensions will be moved to appropriate folders like: 
 "../folder-with-a-very-large-quantities-of-files/file-name/moved-files"
