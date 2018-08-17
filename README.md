@@ -1,5 +1,5 @@
 # BigFolderSplit
-===================
+
 Task to create a Python script to move images of same file name (different extension), in batch of 5000:
 
 I have a folder with a very large quantities of files (over 88 000). The folder is REALLY slow because of the quantity of files found there.
