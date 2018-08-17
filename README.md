@@ -6,7 +6,9 @@ I have a folder with a very large quantities of files (over 88 000). The folder 
 There are 2 to 3 versions of the same file with exact same filename (ex: MyFile-1.eps, MyFile-1.jpg, MyFile-1.zip). 
 
 I would like to have a PYTHON script that would:
+
 1- Create a new folder, named (Batch1, Batch2, Batch3, Batch4, etc.)
+
 2- Move 5000 items of to each folder (1 item = 2 or 3 files of the same file name, with different extension (.eps, .jpg and sometimes .zip).
 
 --Solution--
