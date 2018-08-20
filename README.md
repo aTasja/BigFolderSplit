@@ -14,7 +14,7 @@ I would like to have a PYTHON script that would:
 
 Solution
 -----------------------
-Place script to folder with a very large quantities of files and run it.
+Place script "BigFolderSplit.py" to folder with a very large quantities of files and run it.
 All files with the same filenames and different extensions will be moved to appropriate folders like: 
 "../folder-with-a-very-large-quantities-of-files/file-name/moved-files"
 
